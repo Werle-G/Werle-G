@@ -32,12 +32,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
 </div>
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=werle-g&show_icons=true&locale=en&layout=compact" alt="werle-g" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=werle-g&show_icons=true&locale=en" alt="werle-g" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=werle-g&" alt="werle-g" /></p>
-
+</div>
 
 
 ###
